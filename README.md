@@ -1,6 +1,6 @@
-# Template for EGI repositories
+# Template for interTwin repositories
 
-This repository is to be used as a repository template for creating a new EGI
+This repository is to be used as a repository template for creating a new interTwin
 repository, and is aiming at being a clean basis promoting currently accepted
 good practices.
 
@@ -20,23 +20,6 @@ Content is based on:
 - [Semantic Versioning](https://semver.org/)
 - [Chef Cookbook Contributing Guide](https://github.com/chef-cookbooks/community_cookbook_documentation/blob/master/CONTRIBUTING.MD)
 
-## Asking for creation of a repository
-
-It can be done by contacting the
-[administrators](https://github.com/orgs/EGI-Federation/teams/admins).
-
-The following information should be provided:
-
-- repository name (lower case, usually not required to mention EGI in the name)
-- repository description (oneliner is enough)
-- optionally additional users that should be able to manage PR and issues
-- optional additional requirements (like disabling Pull Requests for the initial
-  repository population)
-
-If required a private repository can be created but public ones are the default,
-but feel free to ask.
-
-Once all info will have been agreed the repository will be created.
 
 ## GitHub repository management rules
 
@@ -59,12 +42,3 @@ To be configured on the repository settings.
   - Other checks as available and relevant
   - Require branches to be up to date before merging
 - Include administrators
-
-## Access
-
-All access should be managed via
-[GitHub teams](https://github.com/orgs/EGI-Federation/teams).
-
-- EGI-Federation/admins: administration right
-- Others participants depending on the requirement: maintain, triage or write or
-  rights
