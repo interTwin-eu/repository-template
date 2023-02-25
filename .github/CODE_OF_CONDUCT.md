@@ -7,14 +7,12 @@ This code of conduct applies to the maintainers and contributors alike.
 _We wish to add a specific section on dealing with issues opened against the
 repository here._
 
-This repository exists in the context of the EGI Federation. While that scope
+This repository exists in the context of the interTwin project. While that scope
 does not restrict the usage, it does inform the priority we assign to issues and
 the order we deal with them.
 
 We welcome issues reported by the public, and more specifically the community of
 people using this repository.
-
-The EGI team is small and cannot support all requests equally.
 
 While we undertake to do everything in our power to respond to issues in a
 timely manner, and to prioritise issues based on reasonable requests from
@@ -76,7 +74,7 @@ further defined and clarified by project maintainers.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behaviour may be
-reported by contacting the EGI Foundation team at contact@egi.eu. The team will
+reported by contacting the interTwin project team at info@interTwin.eu. The team will
 review and investigate all complaints, and will respond in a way that it deems
 appropriate to the circumstances. The team is obligated to maintain
 confidentiality with regard to the reporter of an incident. Further details of
