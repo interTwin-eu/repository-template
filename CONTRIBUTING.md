@@ -81,12 +81,4 @@ purpose of changes to the code.
 Main branch is always available. Tagged versions may be created as needed
 following [Semantic Versioning](https://semver.org/) as far as applicable.
 
-## Community
-
-EGI benefits from a strong community of developers and system administrators,
-and vice-versa. If you have any questions or if you would like to get involved
-in the wider EGI community you can check out:
-
-- [EGI site](https://www.egi.eu)
-
 **This file has been modified from the Chef Cookbook Contributing Guide**.
