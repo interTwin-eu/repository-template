@@ -20,7 +20,6 @@ Content is based on:
 - [Semantic Versioning](https://semver.org/)
 - [Chef Cookbook Contributing Guide](https://github.com/chef-cookbooks/community_cookbook_documentation/blob/master/CONTRIBUTING.MD)
 
-
 ## GitHub repository management rules
 
 All changes should go through Pull Requests.
